@@ -1,0 +1,4 @@
+1) ASP.NET 5 AngularJS with MVC 6 Web API
+
+http://proudmonkey.azurewebsites.net/asp-net-5-jump-start-to-angularjs-with-mvc-6-web-api/
+2) 
